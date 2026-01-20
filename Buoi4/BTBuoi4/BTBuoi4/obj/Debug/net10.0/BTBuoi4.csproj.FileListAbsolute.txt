@@ -1,0 +1,12 @@
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\bin\Debug\net10.0\BTBuoi4.deps.json
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\bin\Debug\net10.0\BTBuoi4.dll
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\bin\Debug\net10.0\BTBuoi4.pdb
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\BTBuoi4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\BTBuoi4.AssemblyInfoInputs.cache
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\BTBuoi4.AssemblyInfo.cs
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\BTBuoi4.csproj.CoreCompileInputs.cache
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\BTBuoi4.sourcelink.json
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\BTBuoi4.dll
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\refint\BTBuoi4.dll
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\BTBuoi4.pdb
+D:\Documents\KiemThu\Kiem_thu_phan_mem\Buoi4\BTBuoi4\BTBuoi4\obj\Debug\net10.0\ref\BTBuoi4.dll

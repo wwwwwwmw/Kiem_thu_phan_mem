@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4.tests\\bai5_hocvientests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|solutionrelative:btbuoi4.tests\\bai5_hocvientests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4\\bai5_hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|solutionrelative:btbuoi4\\bai5_hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4.tests\\bai4_hcntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|solutionrelative:btbuoi4.tests\\bai4_hcntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4\\bai4_hcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|solutionrelative:btbuoi4\\bai4_hcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4.tests\\bai3_radixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|solutionrelative:btbuoi4.tests\\bai3_radixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4\\bai3_radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|solutionrelative:btbuoi4\\bai3_radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4.tests\\bai2_polynomialtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|solutionrelative:btbuoi4.tests\\bai2_polynomialtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4\\bai1_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|solutionrelative:btbuoi4\\bai1_power.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4\\bai2_polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBCC440-C1C3-46F3-9CD0-373ACA5057F7}|BTBuoi4\\BTBuoi4.csproj|solutionrelative:btbuoi4\\bai2_polynomial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\btbuoi4\\btbuoi4.tests\\bai1_powertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF744292-FAF4-4B46-811B-6FF240FB1A22}|BTBuoi4.Tests\\BTBuoi4.Tests.csproj|solutionrelative:btbuoi4.tests\\bai1_powertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai5_HocVien.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai5_HocVien.cs",
+              "RelativeDocumentMoniker": "BTBuoi4\\Bai5_HocVien.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai5_HocVien.cs",
+              "RelativeToolTip": "BTBuoi4\\Bai5_HocVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:46:14.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai5_HocVienTests.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai5_HocVienTests.cs",
+              "RelativeDocumentMoniker": "BTBuoi4.Tests\\Bai5_HocVienTests.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai5_HocVienTests.cs",
+              "RelativeToolTip": "BTBuoi4.Tests\\Bai5_HocVienTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:46:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai4_HCNTests.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai4_HCNTests.cs",
+              "RelativeDocumentMoniker": "BTBuoi4.Tests\\Bai4_HCNTests.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai4_HCNTests.cs",
+              "RelativeToolTip": "BTBuoi4.Tests\\Bai4_HCNTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:44:01.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai4_HCN.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai4_HCN.cs",
+              "RelativeDocumentMoniker": "BTBuoi4\\Bai4_HCN.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai4_HCN.cs",
+              "RelativeToolTip": "BTBuoi4\\Bai4_HCN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:43:32.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai3_RadixTests.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai3_RadixTests.cs",
+              "RelativeDocumentMoniker": "BTBuoi4.Tests\\Bai3_RadixTests.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai3_RadixTests.cs",
+              "RelativeToolTip": "BTBuoi4.Tests\\Bai3_RadixTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:41:22.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai3_Radix.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai3_Radix.cs",
+              "RelativeDocumentMoniker": "BTBuoi4\\Bai3_Radix.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai3_Radix.cs",
+              "RelativeToolTip": "BTBuoi4\\Bai3_Radix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:41:05.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bai2_PolynomialTests.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai2_PolynomialTests.cs",
+              "RelativeDocumentMoniker": "BTBuoi4.Tests\\Bai2_PolynomialTests.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai2_PolynomialTests.cs",
+              "RelativeToolTip": "BTBuoi4.Tests\\Bai2_PolynomialTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:37:07.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bai2_Polynomial.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai2_Polynomial.cs",
+              "RelativeDocumentMoniker": "BTBuoi4\\Bai2_Polynomial.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai2_Polynomial.cs",
+              "RelativeToolTip": "BTBuoi4\\Bai2_Polynomial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:36:13.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bai1_PowerTests.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai1_PowerTests.cs",
+              "RelativeDocumentMoniker": "BTBuoi4.Tests\\Bai1_PowerTests.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4.Tests\\Bai1_PowerTests.cs",
+              "RelativeToolTip": "BTBuoi4.Tests\\Bai1_PowerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:31:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bai1_Power.cs",
+              "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai1_Power.cs",
+              "RelativeDocumentMoniker": "BTBuoi4\\Bai1_Power.cs",
+              "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\BTBuoi4\\BTBuoi4\\Bai1_Power.cs",
+              "RelativeToolTip": "BTBuoi4\\Bai1_Power.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:30:34.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

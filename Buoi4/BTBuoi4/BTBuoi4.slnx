@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BTBuoi4.Tests/BTBuoi4.Tests.csproj" />
+  <Project Path="BTBuoi4/BTBuoi4.csproj" />
+</Solution>
