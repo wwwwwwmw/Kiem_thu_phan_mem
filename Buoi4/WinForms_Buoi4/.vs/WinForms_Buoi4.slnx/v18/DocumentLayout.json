@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\WinForms_Buoi4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B479560D-158D-EC73-029E-EC5FAAA4637E}|WinForms_Buoi4\\WinForms_Buoi4.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\winforms_buoi4\\winforms_buoi4\\winforms_buoi4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B479560D-158D-EC73-029E-EC5FAAA4637E}|WinForms_Buoi4\\WinForms_Buoi4.csproj|solutionrelative:winforms_buoi4\\winforms_buoi4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18687EBE-AAE9-49AA-A6EB-FAC61D51DDDD}|WinForms_Buoi4.Tests\\WinForms_Buoi4.Tests.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\winforms_buoi4\\winforms_buoi4.tests\\organizationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18687EBE-AAE9-49AA-A6EB-FAC61D51DDDD}|WinForms_Buoi4.Tests\\WinForms_Buoi4.Tests.csproj|solutionrelative:winforms_buoi4.tests\\organizationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B479560D-158D-EC73-029E-EC5FAAA4637E}|WinForms_Buoi4\\WinForms_Buoi4.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\winforms_buoi4\\winforms_buoi4\\winforms_buoi4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B479560D-158D-EC73-029E-EC5FAAA4637E}|WinForms_Buoi4\\WinForms_Buoi4.csproj|solutionrelative:winforms_buoi4\\winforms_buoi4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{18687EBE-AAE9-49AA-A6EB-FAC61D51DDDD}|WinForms_Buoi4.Tests\\WinForms_Buoi4.Tests.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\winforms_buoi4\\winforms_buoi4.tests\\winforms_buoi4.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -35,7 +35,7 @@
       "RelativeMoniker": "D:0:0:{B479560D-158D-EC73-029E-EC5FAAA4637E}|WinForms_Buoi4\\WinForms_Buoi4.csproj|solutionrelative:winforms_buoi4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B479560D-158D-EC73-029E-EC5FAAA4637E}|WinForms_Buoi4\\WinForms_Buoi4.csproj|d:\\documents\\kiemthu\\kiem_thu_phan_mem\\buoi4\\winforms_buoi4\\winforms_buoi4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B479560D-158D-EC73-029E-EC5FAAA4637E}|WinForms_Buoi4\\WinForms_Buoi4.csproj|D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\WinForms_Buoi4\\winforms_buoi4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B479560D-158D-EC73-029E-EC5FAAA4637E}|WinForms_Buoi4\\WinForms_Buoi4.csproj|solutionrelative:winforms_buoi4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WinForms_Buoi4",
+              "DocumentIndex": 1,
+              "Title": "WinForms_Buoi4.csproj",
               "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\WinForms_Buoi4\\WinForms_Buoi4\\WinForms_Buoi4.csproj",
               "RelativeDocumentMoniker": "WinForms_Buoi4\\WinForms_Buoi4.csproj",
               "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\WinForms_Buoi4\\WinForms_Buoi4\\WinForms_Buoi4.csproj",
               "RelativeToolTip": "WinForms_Buoi4\\WinForms_Buoi4.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-20T08:36:47.66Z",
               "EditorCaption": ""
@@ -64,7 +64,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WinForms_Buoi4.Tests",
+              "Title": "WinForms_Buoi4.Tests.csproj",
               "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\WinForms_Buoi4\\WinForms_Buoi4.Tests\\WinForms_Buoi4.Tests.csproj",
               "RelativeDocumentMoniker": "WinForms_Buoi4.Tests\\WinForms_Buoi4.Tests.csproj",
               "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\WinForms_Buoi4\\WinForms_Buoi4.Tests\\WinForms_Buoi4.Tests.csproj",
@@ -76,13 +76,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "OrganizationTests.cs",
               "DocumentMoniker": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\WinForms_Buoi4\\WinForms_Buoi4.Tests\\OrganizationTests.cs",
               "RelativeDocumentMoniker": "WinForms_Buoi4.Tests\\OrganizationTests.cs",
               "ToolTip": "D:\\Documents\\KiemThu\\Kiem_thu_phan_mem\\Buoi4\\WinForms_Buoi4\\WinForms_Buoi4.Tests\\OrganizationTests.cs",
               "RelativeToolTip": "WinForms_Buoi4.Tests\\OrganizationTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAYwNcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T08:29:13.764Z",
               "EditorCaption": ""
@@ -97,8 +97,7 @@
               "RelativeToolTip": "WinForms_Buoi4\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T08:14:52.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T08:14:52.135Z"
             },
             {
               "$type": "Document",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "WinForms_Buoi4\\Form1.Designer.cs",
               "ViewState": "AgIAAJsAAAAAAAAAAAAgwLwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T08:11:49.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T08:11:49.55Z"
             },
             {
               "$type": "Document",
@@ -136,8 +134,7 @@
               "RelativeToolTip": "WinForms_Buoi4\\Organization.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T08:06:04.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T08:06:04.484Z"
             },
             {
               "$type": "Document",
@@ -149,8 +146,7 @@
               "RelativeToolTip": "WinForms_Buoi4\\OrganizationBLL.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAgwFIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-20T08:04:16.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-20T08:04:16.474Z"
             },
             {
               "$type": "Document",

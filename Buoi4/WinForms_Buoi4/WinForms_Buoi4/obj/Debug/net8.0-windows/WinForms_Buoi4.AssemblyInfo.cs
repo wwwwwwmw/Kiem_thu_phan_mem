@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinForms_Buoi4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccdaf93bf2417b7aae28cdf3ea6b54e5ced76766")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c17eb64196183f452d909c0101a4bd6855f0b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinForms_Buoi4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinForms_Buoi4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
