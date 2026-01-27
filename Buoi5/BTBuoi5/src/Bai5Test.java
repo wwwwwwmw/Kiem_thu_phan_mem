@@ -105,9 +105,9 @@ public class Bai5Test {
         assertEquals("Lỗi: Bạn chưa đồng ý điều khoản", Bai5.dangKy(kh));
     }
     @Test
-    public void testMatKhauNgan() {
-        Bai5_KhachHang kh = new Bai5_KhachHang("userHappy", "Demo Fail", "fail@email.com", "0901234567", "HN", "123", "123", "2000-01-01", "Nam", true);
+    public void testTuoi_QuaCao_1000Tuoi() {
+        Bai5_KhachHang kh = new Bai5_KhachHang("userOld", "Cu Ong", "old@email.com", "0901234567", "HN", "pass1234", "pass1234", "1024-01-01", "Nam", true);
         String ketQuaThucTe = Bai5.dangKy(kh);
-        assertEquals("Đăng ký tài khoản thành công!", ketQuaThucTe);
+        assertEquals("Lỗi: Tuổi không hợp lệ", ketQuaThucTe);
     }
 }
