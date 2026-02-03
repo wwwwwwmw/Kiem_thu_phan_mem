@@ -59,4 +59,15 @@ public class Bai6Test {
         String result = form.deleteUser("unknownUser");
         assertEquals("User not found", result);
     }
+    @Test
+    public void testWeakPassword() {
+        // Hành động: Đăng ký với mật khẩu chỉ có 1 ký tự
+        String result = form.addUser("userWeak", "1", "Weak User", "weak@gmail.com");
+
+        // KẾT QUẢ MONG ĐỢI (Expected): Hệ thống phải yêu cầu mật khẩu mạnh hơn
+        assertEquals("Password must be at least 6 characters", result);
+
+        // KẾT QUẢ THỰC TẾ (Actual): Hệ thống trả về "User created"
+        // -> Test sẽ FAIL (Màu đỏ).
+    }
 }

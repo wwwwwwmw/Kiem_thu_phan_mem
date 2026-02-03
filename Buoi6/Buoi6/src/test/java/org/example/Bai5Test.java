@@ -61,4 +61,17 @@ public class Bai5Test {
         String result = form.validateAndSave("Manager", "New Desc", "New Note");
         assertEquals("Title already exists", result);
     }
+    @Test
+    public void testJobTitleWithHtmlTags() {
+        // Hành động: Cố tình nhập Title chứa thẻ Script
+        String maliciousTitle = "<script>alert('Hacked')</script>";
+
+        String result = form.validateAndSave(maliciousTitle, "Desc", "Note");
+
+        // KẾT QUẢ MONG ĐỢI (Expected): Hệ thống phải chặn và báo lỗi
+        assertEquals("Invalid characters in Title", result);
+
+        // KẾT QUẢ THỰC TẾ (Actual): Hệ thống trả về "Saved successfully"
+        // -> Test sẽ FAIL (Màu đỏ), đây chính là bằng chứng để log bug.
+    }
 }
