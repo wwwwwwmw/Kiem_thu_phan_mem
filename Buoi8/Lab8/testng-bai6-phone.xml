@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Lab8_Bai6_PhoneValidator_Suite">
+    <test name="Bai6_1_TDD_PhoneValidator_Test">
+        <classes>
+            <class name="org.example.bai6.PhoneValidatorTest"/>
+        </classes>
+    </test>
+</suite>
