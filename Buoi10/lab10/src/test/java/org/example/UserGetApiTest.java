@@ -15,7 +15,7 @@ public class UserGetApiTest extends ApiBaseTest {
                 .then()
                 .spec(responseSpec)
                 .statusCode(200)
-                .body("size()", greaterThan(0)); // API trả về một mảng JSON trực tiếp
+                .body("size()", greaterThan(0));
     }
 
     @Test(description = "Test 2: GET /users (Kiểm tra cấu trúc từng phần tử)")
@@ -29,7 +29,7 @@ public class UserGetApiTest extends ApiBaseTest {
                 .body("id", everyItem(notNullValue()))
                 .body("name", everyItem(notNullValue()))
                 .body("email", everyItem(notNullValue()))
-                // JSONPlaceholder có nested object (address, company)
+
                 .body("address.city", everyItem(notNullValue()));
     }
 
@@ -42,7 +42,7 @@ public class UserGetApiTest extends ApiBaseTest {
                 .spec(responseSpec)
                 .statusCode(200)
                 .body("id", equalTo(3))
-                .body("email", containsString("@")) // Kiểm tra định dạng email
+                .body("email", containsString("@"))
                 .body("name", not(emptyOrNullString()));
     }
 
@@ -52,7 +52,7 @@ public class UserGetApiTest extends ApiBaseTest {
                 .when()
                 .get("/users/9999")
                 .then()
-                .spec(responseSpec) // API này trả 404 về JSON "{}"
+                .spec(responseSpec)
                 .statusCode(404)
                 .body("$", anEmptyMap());
     }

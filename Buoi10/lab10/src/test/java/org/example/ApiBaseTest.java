@@ -17,7 +17,7 @@ public class ApiBaseTest {
 
     @BeforeClass
     public void setupApiSpec() {
-        // Đổi Base URI sang jsonplaceholder
+
         requestSpec = new RequestSpecBuilder()
                 .setBaseUri("https://jsonplaceholder.typicode.com")
                 .setContentType(ContentType.JSON)
@@ -28,7 +28,7 @@ public class ApiBaseTest {
 
         responseSpec = new ResponseSpecBuilder()
                 .expectContentType(ContentType.JSON)
-                .expectResponseTime(lessThan(4000L)) // Tăng SLA lên 4s cho chắc ăn với mạng public
+                .expectResponseTime(lessThan(4000L))
                 .build();
     }
 }
